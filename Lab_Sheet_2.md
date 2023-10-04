@@ -117,9 +117,10 @@ https://github.com/Computer-Lab-I-2566/Eng-EDU_Curriculum_2562/blob/main/Part_3.
 
 ## คำสั่ง
 
-- เพิ่มข้อมูลแผนการศึกษาให้ครบถ้วนและตรงตามแขนงวิชา
+- เพิ่มข้อมูลแผนการศึกษาให้ครบถ้วนและตรงตามแขนงวิชา >> https://github.com/KanyakornPuengmon/VSCode
 
 - capture ภาพ git gpraph แนบมาในรายงานการทดลองด้วย
+![image](https://github.com/KanyakornPuengmon/COM-LAB-I-LabSheet-Week-13/assets/144195697/f438821d-9149-4ce5-b1cc-dfd2291ec60d)
 
 
 ## จบการทดลอง
