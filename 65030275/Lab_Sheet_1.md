@@ -37,6 +37,8 @@
 
 [2] Initialize Repository
 
+![Uploading image.png…]()
+
 
 5. ใส่ข้อความ commit และกด commit
 
