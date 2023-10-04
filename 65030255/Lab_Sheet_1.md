@@ -1,6 +1,9 @@
 # การใช้งาน Github ร่วมกับ Visual studio code
 ## แนวทางการทำงานกับ branch
 
+65030255 นายสรวิชญ์ ชวนเชย LAB SHEET 1 
+https://github.com/Sorawit255/Github_VScode/tree/DEV-1
+
 1. สร้าง folder ใหม่เพื่อใช้เป็น local repository
 
 
