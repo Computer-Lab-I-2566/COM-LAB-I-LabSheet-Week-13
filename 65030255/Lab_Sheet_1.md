@@ -20,6 +20,7 @@
 
 ![Alt text](./Pictures/Picture-13.png)
 
+ 65030255
 ![Alt text](image.png)
 
 [1] กดปุ่มสร้างไฟล์ใหม่
@@ -109,6 +110,10 @@
 
 ![Alt text](./Pictures/Picture-29.png)
 
+65030255
+![image](https://github.com/Sorawit255/COM-LAB-I-LabSheet-Week-13/assets/144196505/d65fc937-d84d-47e4-b779-33a41e43d9d8)
+
+
 
  ![Alt text](./Pictures/Picture-30.png)
 
@@ -116,6 +121,8 @@
 
 ![Alt text](./Pictures/Picture-31.png)
 
+65030255
+![image](https://github.com/Sorawit255/COM-LAB-I-LabSheet-Week-13/assets/144196505/b7c4fc0b-4d0b-4b79-bf31-9fab604db576)
 
 20. publish branch ขึ้นไปยัง server 
 
