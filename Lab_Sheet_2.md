@@ -118,8 +118,10 @@ https://github.com/Computer-Lab-I-2566/Eng-EDU_Curriculum_2562/blob/main/Part_3.
 ## คำสั่ง
 
 - เพิ่มข้อมูลแผนการศึกษาให้ครบถ้วนและตรงตามแขนงวิชา
+  https://github.com/65030121natthamon/engedu_cirriculum
 
 - capture ภาพ git gpraph แนบมาในรายงานการทดลองด้วย
+![Screenshot 2023-10-04 125904](https://github.com/65030121natthamon/COM-LAB-I-LabSheet-Week-13/assets/144195611/0e0ee485-813b-40aa-b305-03693e26397b)
 
 
 ## จบการทดลอง
