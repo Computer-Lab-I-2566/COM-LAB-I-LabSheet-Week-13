@@ -108,8 +108,11 @@
 17. เพิ่มเนื้อหาใน readme.md
 
 
-![Uploading image.png…]()
+![image](https://github.com/fulk2014/COM-LAB-I-LabSheet-Week-13/assets/144195753/01fd7f32-7450-44f8-8881-f557c6b2fcfa)
 
+
+
+![Uploading image.png…]()
 
 
 
