@@ -37,7 +37,7 @@
 
 [2] Initialize Repository
 
-![Uploading image.png…]()
+![image](https://github.com/fulk2014/COM-LAB-I-LabSheet-Week-13/assets/144195753/d56f9b9c-8878-4c6d-b220-9aca108c3ce6)
 
 
 5. ใส่ข้อความ commit และกด commit
@@ -57,9 +57,16 @@
 ![Alt text](./Pictures/Picture-19.png)
 
 
+![image](https://github.com/fulk2014/COM-LAB-I-LabSheet-Week-13/assets/144195753/a65bce02-5455-450e-bb13-6f96123f683d)
+
+
 9. ตัวอย่าง repository ที่สร้างขึ้นจากฝั่ง Local เมื่อมองจากฝั่ง github derver
 
 ![Alt text](./Pictures/Picture-20.png)
+
+
+
+![image](https://github.com/fulk2014/COM-LAB-I-LabSheet-Week-13/assets/144195753/491c3d7d-bc38-4e2a-a5f3-3fed9ab2e6d5)
 
 
 10. ค้นหา extension `git graph` เพื่อติดตั้งไว้ดูสถานะของ branch  
@@ -99,6 +106,11 @@
 [1] ใช้คำสั่ง `git checkout DEV-1`
 
 17. เพิ่มเนื้อหาใน readme.md
+
+
+![Uploading image.png…]()
+
+
 
 
 ![Alt text](./Pictures/Picture-28.png)
