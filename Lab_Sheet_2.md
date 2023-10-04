@@ -1,4 +1,4 @@
-﻿# Labsheet 2 ทำงานกับ branch บน Visual stidio code
+![382481988_6274974605940401_5314914184447914870_n](https://github.com/Phetteepop/COM-LAB-I-LabSheet-Week-13/assets/144197367/b18f5e20-062e-48bc-a44d-c61b158a2271)﻿# Labsheet 2 ทำงานกับ branch บน Visual stidio code
 
 ## คำแนะนำ
 
@@ -118,8 +118,10 @@ https://github.com/Computer-Lab-I-2566/Eng-EDU_Curriculum_2562/blob/main/Part_3.
 ## คำสั่ง
 
 - เพิ่มข้อมูลแผนการศึกษาให้ครบถ้วนและตรงตามแขนงวิชา
+- https://github.com/Phetteepop/engedu_cirriculum
 
 - capture ภาพ git gpraph แนบมาในรายงานการทดลองด้วย
+![382481988_6274974605940401_5314914184447914870_n](https://github.com/Phetteepop/COM-LAB-I-LabSheet-Week-13/assets/144197367/d2379a8d-b116-4fbd-97c8-170098f31c8b)
 
 
 ## จบการทดลอง
