@@ -1,5 +1,7 @@
 ﻿# Labsheet 2 ทำงานกับ branch บน Visual stidio code
 
+ ส่งงาน https://github.com/fulk2014/engedu_cirriculum/tree/Computer
+
 ## คำแนะนำ
 
 การทดลองนี้ จะสร้าง branch เพื่อพัฒนาหลักสูตรในส่วนของแผนการเรียนรู้ของนักศึกษาในหลักสูตรครุศาสตร์วิศวกรรม ซึ่งมี 3 แขนง
