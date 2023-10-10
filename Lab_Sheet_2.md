@@ -1,5 +1,9 @@
 ﻿# Labsheet 2 ทำงานกับ branch บน Visual stidio code
 
+ส่งงาน https://github.com/likunzz/engedu_cirriculum65030028
+
+![สกรีนช็อต 2023-10-10 191749](https://github.com/likunzz/COM-LAB-I-LabSheet-Week-13/assets/144196696/b8b0ea18-df85-44a4-b59b-4ef6af4ab23b)
+
 ## คำแนะนำ
 
 การทดลองนี้ จะสร้าง branch เพื่อพัฒนาหลักสูตรในส่วนของแผนการเรียนรู้ของนักศึกษาในหลักสูตรครุศาสตร์วิศวกรรม ซึ่งมี 3 แขนง
