@@ -1,6 +1,8 @@
 # การใช้งาน Github ร่วมกับ Visual studio code
 ## แนวทางการทำงานกับ branch
 
+ส่งงาน https://github.com/likunzz/Github-vs-code
+
 1. สร้าง folder ใหม่เพื่อใช้เป็น local repository
 
 
