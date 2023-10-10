@@ -1,5 +1,11 @@
 # การใช้งาน Github ร่วมกับ Visual studio code
 ## แนวทางการทำงานกับ branch
+### ส่งงาน นางสาว อัญชิสา เพชรน้อย 65030289
+#### ส่งงาน https://github.com/likunzz/Github-vs-code/blob/main/readme.md
+#### ส่งงาน https://github.com/likunzz/Github-vs-code/blob/main/readme.md
+![ภาพ](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-13/assets/144197034/9155fffc-cd4e-49bf-a18d-ac2c484c4c9c)
+![ภาพ](https://github.com/AnchisaPhetnoi/COM-LAB-I-LabSheet-Week-13/assets/144197034/50b5e14a-9a6f-411b-b2d3-ecbead1ae9bc)
+
 
 1. สร้าง folder ใหม่เพื่อใช้เป็น local repository
 
