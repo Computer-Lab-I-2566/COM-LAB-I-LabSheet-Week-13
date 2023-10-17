@@ -1,5 +1,7 @@
 ﻿# Labsheet 2 ทำงานกับ branch บน Visual stidio code
 
+ ส่งงานLab13 https://github.com/Computer-Lab-I-2566/COM-LAB-I-LabSheet-Week-13.git
+
 ## คำแนะนำ
 
 การทดลองนี้ จะสร้าง branch เพื่อพัฒนาหลักสูตรในส่วนของแผนการเรียนรู้ของนักศึกษาในหลักสูตรครุศาสตร์วิศวกรรม ซึ่งมี 3 แขนง
